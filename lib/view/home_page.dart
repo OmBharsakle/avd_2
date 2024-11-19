@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-
 import '../modal/fitness.dart';
 import '../provider/provider.dart';
 import 'fireBasePage.dart';

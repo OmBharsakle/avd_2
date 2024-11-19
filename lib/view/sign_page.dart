@@ -1,7 +1,6 @@
 import 'package:avd_2/view/login.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-
 import '../provider/provider.dart';
 import '../utils/globle.dart';
 

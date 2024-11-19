@@ -2,7 +2,6 @@ import 'package:avd_2/view/home_page.dart';
 import 'package:avd_2/view/sign_page.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-
 import '../provider/provider.dart';
 import '../utils/globle.dart';
 
