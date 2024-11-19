@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "845859826050",
+    "project_id": "avd-exam",
+    "storage_bucket": "avd-exam.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845859826050:android:34203ef6503dfcc9a5079b",
+        "android_client_info": {
+          "package_name": "com.example.avd_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABCPM3g9__qVLPO87XhMmybIUOukjZAYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845859826050:android:acce4c2c055e23c2a5079b",
+        "android_client_info": {
+          "package_name": "com.example.avd_exam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABCPM3g9__qVLPO87XhMmybIUOukjZAYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
