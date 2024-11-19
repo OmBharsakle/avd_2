@@ -46,15 +46,14 @@ The **Fitness Log App** is a mobile application built with Flutter to help users
 # ScreenShot
 
 <div align="center">
-
    <img src="https://github.com/user-attachments/assets/081eace8-5125-447f-8a54-76763813ea95" height="500">
    <img src="https://github.com/user-attachments/assets/d0803960-1e74-4bc8-9ad6-944750e9383a" height="500">
    <img src="https://github.com/user-attachments/assets/8874caf7-7310-470f-9f35-30015e3be8b6" height="500">
    <img src="https://github.com/user-attachments/assets/696b2056-bbde-4baf-85fc-ed721cacb673" height="500">
    <img src="https://github.com/user-attachments/assets/e808861d-413d-42f0-8eb6-858dc3eb1730" height="500">
    <img src="https://github.com/user-attachments/assets/298f7811-bfe7-4ada-9800-5868b5f599a4" height="500">
-
-
+   <img src="https://github.com/user-attachments/assets/2ed960b0-993f-493d-9b25-5125f657d999" height="500">
+   <img src="https://github.com/user-attachments/assets/392b0120-5713-404c-b257-d74832b65916" height="500">
 </div>
 
 
